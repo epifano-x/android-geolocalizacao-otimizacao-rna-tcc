@@ -1,6 +1,6 @@
 # README: Projeto de TCC - Otimização da Geolocalização em Dispositivos Android
 
-Este repositório contém o projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido por [seu nome] como parte dos requisitos para obtenção do título de Bacharel em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Medianeira.
+Este repositório contém o projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido como parte dos requisitos para obtenção do título de Bacharel em Ciência da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR) - Campus Medianeira.
 
 ## Resumo do TCC
 
